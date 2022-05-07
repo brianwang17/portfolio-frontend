@@ -1,0 +1,1 @@
+export type { HomePageModel } from './HomePageModel';
